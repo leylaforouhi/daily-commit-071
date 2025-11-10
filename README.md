@@ -1,4 +1,4 @@
-def convert_currency(amount, rate):
+def convert_currency(amount, rat):
     return amount * rate
 
 if __name__ == "__main__":
